@@ -10,7 +10,7 @@
   		<h4>Debian Fast Server Select</h4>
   		Do you want Debian to automatically choose the fastest download server? Then simply leave this box
   		selected.<br />
-  		You can not make a selection in the mirror list, if you prefer to select a mirror, please deactivate this
+  		You cannot make a selection in the mirror list, if you prefer to select a mirror, please deactivate this
   		box.<br /><br />
   		<label><input name="debFast" id="debFast" type="checkbox" checked /> Use <a href="https://deb.debian.org"
   				target="_blank">deb.debian.org</a> (Fast Server Select) service?</label><br /><br />
